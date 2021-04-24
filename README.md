@@ -1,3 +1,2 @@
 # Image-Colorization
-ArIES (Artificial Intelligence and Electronics Society) Project using Deep Learning
-Image Colourization using Convolutional Neural Networks 
+ArIES (Artificial Intelligence and Electronics Society) Project using Deep Learning and Convolutional Neural Networks.
